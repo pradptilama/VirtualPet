@@ -1,12 +1,11 @@
 
 void setup(){
   //some of your code here
+    size (400, 400);
+background(#E5F5FF);
 }
 void draw(){
   //more of your code here
-}
-size (400, 400);
-background(#E5F5FF);
 noStroke();
 ellipse (200, 240, 90, 90);
 ellipse (200, 180, 70, 70);
